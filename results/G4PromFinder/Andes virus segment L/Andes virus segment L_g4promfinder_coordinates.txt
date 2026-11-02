@@ -1,0 +1,16 @@
+Region           Strand              Start               End
+
+P1plus             positivo           539           614
+P2plus             positivo           2531           2606
+P3plus             positivo           3737           3812
+P4plus             positivo           4286           4361
+P5plus             positivo           4936           5011
+P6plus             positivo           5011           5086
+P7plus             positivo           5730           5805
+P1minus             negativo           510           585
+P2minus             negativo           2496           2571
+P3minus             negativo           3705           3780
+P4minus             negativo           4258           4333
+P5minus             negativo           4900           4975
+P6minus             negativo           4986           5061
+P7minus             negativo           5692           5767

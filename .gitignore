@@ -1,0 +1,13 @@
+# Third-party tool installs / dependencies (large; install separately, see RUN_EACH_TOOL.md)
+library/
+G4-Aptamer-main - V 3.0/
+
+# Caches / local environment
+__pycache__/
+.r-lib/
+.r-lib-wsl/
+.Rhistory
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
